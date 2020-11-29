@@ -24,6 +24,8 @@ Python | PHP | HTML | CSS
 [<img height="30" src ="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src ="https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
 [<img height="30" src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>][Hackerrank]
+[<img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>][Stackoverflow]
+
 <br />
 <hr />
 
@@ -69,3 +71,4 @@ Check out my latest videos on [YouTube](https://www.youtube.com/c/ChinmayVivekk)
 [linkedin]: https://www.linkedin.com/in/chinmayvivek/
 [Facebook]: https://www.facebook.com/chinmayvivek
 [Hackerrank]: https://www.hackerrank.com/chinmayvivek
+[Stackoverflow]: https://stackoverflow.com/users/8684941/chinmay-vivek
