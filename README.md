@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Python | PHP | HTML | CSS
+Golang | Python | PHP | HTML | CSS
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
@@ -34,7 +34,7 @@ Python | PHP | HTML | CSS
 <!-- Namaste 🙏 -->
  
  
-* Primary coding language: Python.
+* Primary coding language: Golang.
 * I’m currently working on my portfolio.
 * Competitive Programmer
 * Ask me about anything, I'll be happy to help.
