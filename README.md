@@ -52,8 +52,8 @@ You can find my blogs at my [Website](https://chinmayvivek.wordpress.com).
 <td valign="top" width="34%">
 
 ### The Developer {'Dictionary':⚡}
-Check out my latest videos on [YouTube](https://www.youtube.com/c/ChinmayVivekk):
-
+- Check out my latest videos on [YouTube](https://www.youtube.com/c/ChinmayVivekk):
+- Check out my [Gist](https://gist.github.com/CHINMAYVIVEK)
 </td>
 
  <details>
