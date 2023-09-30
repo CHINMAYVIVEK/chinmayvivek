@@ -40,6 +40,8 @@ Golang | Python | PHP | HTML | CSS
 * Ask me about anything, I'll be happy to help.
 * From Prayagraj, U.P. India
 
+![](https://komarev.com/ghpvc/?username=ChinmayVivek&style=flat-square)
+
 <table><tr><td valign="top" width="33%">
 
 ### My Digital Galaxy 🔭
@@ -56,12 +58,15 @@ You can find my blogs at my [Website](https://chinmayvivek.wordpress.com).
 - Check out my [Gist](https://gist.github.com/CHINMAYVIVEK)
 </td>
 
- <details>
-<summary>📊 Github Stats</summary>
+<!--   Top Languages Using -->
+### 👨‍💻 Top Languages Used:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChinmayVivek&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChinmayVivek&theme=nord_dark)
 
+<!--   Stats -->
+### 📊 Github Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chinmayvivek&show_icons=true&theme=gotham" alt="Chinmay Vivek | Stats" />
 
-</details>
 
  
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
