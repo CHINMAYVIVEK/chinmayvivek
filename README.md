@@ -38,7 +38,8 @@ Golang | Python | PHP | HTML | CSS
 
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
-Namaste 🙏
+  
+### Namaste 🙏
  
 * Primary coding language: Golang.
 * I’m currently working on my portfolio.
@@ -46,7 +47,7 @@ Namaste 🙏
 * Ask me about anything, I'll be happy to help.
 * From Prayagraj, U.P. India
 
-![](https://komarev.com/ghpvc/?username=ChinmayVivek&style=flat-square)
+![](https://komarev.com/ghpvc/?username=ChinmayVivek&style=for-the-badge&base=1000)
 
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used:
