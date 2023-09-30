@@ -19,6 +19,13 @@ Golang | Python | PHP | HTML | CSS
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
 
+[twitter]: https://twitter.com/chinmayvivek
+[youtube]: https://www.youtube.com/c/ChinmayVivekk
+[linkedin]: https://www.linkedin.com/in/chinmayvivek/
+[Facebook]: https://www.facebook.com/chinmayvivek
+[Hackerrank]: https://www.hackerrank.com/chinmayvivek
+[Stackoverflow]: https://stackoverflow.com/users/8684941/chinmay-vivek
+
 [<img height="30" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src ="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src ="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
@@ -31,8 +38,7 @@ Golang | Python | PHP | HTML | CSS
 
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
-<!-- Namaste 🙏 -->
- 
+Namaste 🙏
  
 * Primary coding language: Golang.
 * I’m currently working on my portfolio.
@@ -41,6 +47,17 @@ Golang | Python | PHP | HTML | CSS
 * From Prayagraj, U.P. India
 
 ![](https://komarev.com/ghpvc/?username=ChinmayVivek&style=flat-square)
+
+<!--   Top Languages Using -->
+### 👨‍💻 Top Languages Used:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChinmayVivek&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChinmayVivek&theme=nord_dark)
+
+<!--   Stats -->
+### 📊 GitHub Stats:
+![Chinmay Vivek github stats](https://github-readme-stats.vercel.app/api?username=ChinmayVivek&theme=gotham&show_icons=true&count_private=true)
+ 
+### Show some &nbsp;❤️&nbsp; by starring some of the repositories!
 
 <table><tr><td valign="top" width="33%">
 
@@ -57,23 +74,6 @@ You can find my blogs at my [Website](https://chinmayvivek.wordpress.com).
 - Check out my latest videos on [YouTube](https://www.youtube.com/c/ChinmayVivekk):
 - Check out my [Gist](https://gist.github.com/CHINMAYVIVEK)
 </td>
+</tr>
+</table>
 
-<!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChinmayVivek&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChinmayVivek&theme=nord_dark)
-
-<!--   Stats -->
-### 📊 Github Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chinmayvivek&show_icons=true&theme=gotham" alt="Chinmay Vivek | Stats" />
-
-
- 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
-[twitter]: https://twitter.com/chinmayvivek
-[youtube]: https://www.youtube.com/c/ChinmayVivekk
-[linkedin]: https://www.linkedin.com/in/chinmayvivek/
-[Facebook]: https://www.facebook.com/chinmayvivek
-[Hackerrank]: https://www.hackerrank.com/chinmayvivek
-[Stackoverflow]: https://stackoverflow.com/users/8684941/chinmay-vivek
