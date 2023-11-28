@@ -47,7 +47,7 @@ Golang | Python | PHP | HTML | CSS
 * Ask me about anything, I'll be happy to help.
 * From Prayagraj, U.P. India
 
-![](https://komarev.com/ghpvc/?username=ChinmayVivek&style=for-the-badge&base=1000)
+![](https://komarev.com/ghpvc/?username=ChinmayVivek&style=for-the-badge)
 
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used:
