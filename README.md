@@ -51,14 +51,22 @@ Golang | Python | PHP | HTML | CSS
 
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChinmayVivek&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChinmayVivek&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChinmayVivek)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChinmayVivek)
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
-![Chinmay Vivek github stats](https://github-readme-stats.vercel.app/api?username=ChinmayVivek&theme=gotham&show_icons=true&count_private=true)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChinmayVivek&show_icons=true&locale=en" alt="ChinmayVivek" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayVivek&" alt="ChinmayVivek" /></p>
  
+
 ### Show some &nbsp;❤️&nbsp; by starring some of the repositories!
+
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChinmayVivek" alt="ChinmayVivek" /></a> </p>
+
 
 <table><tr><td valign="top" width="33%">
 
