@@ -54,14 +54,14 @@ Golang | Python | PHP | HTML | CSS
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChinmayVivek)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChinmayVivek)
 
-<!--   Stats -->
+<!--   Stats
 ### 📊 GitHub Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChinmayVivek&show_icons=true&locale=en" alt="ChinmayVivek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayVivek&" alt="ChinmayVivek" /></p>
  
-
+ -->
 ### Show some &nbsp;❤️&nbsp; by starring some of the repositories!
 
 ## 🏆 GitHub Trophies
