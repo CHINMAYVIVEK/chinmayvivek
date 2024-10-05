@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Golang | Python | PHP | HTML | CSS
+Rust | Golang | Python | PHP 
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
