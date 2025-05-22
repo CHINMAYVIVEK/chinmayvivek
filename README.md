@@ -51,8 +51,8 @@ Rust | Golang | Python | PHP
 
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChinmayVivek)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChinmayVivek)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChinmayVivek&theme=onedark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChinmayVivek&theme=onedark)
 
 <!--   Stats
 ### 📊 GitHub Stats:
@@ -65,7 +65,7 @@ Rust | Golang | Python | PHP
 ### Show some &nbsp;❤️&nbsp; by starring some of the repositories!
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChinmayVivek" alt="ChinmayVivek" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChinmayVivek&theme=onedark" alt="ChinmayVivek" /></a> </p>
 
 
 <table><tr><td valign="top" width="33%">
