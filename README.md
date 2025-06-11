@@ -39,6 +39,7 @@ struct Developer {
     name: &'static str,
     what_i_do: &'static [&'static str],
     skills: &'static [(&'static str, &'static [&'static str])],
+    connect_me: &'static [&'static str],
 }
 
 impl Developer {
@@ -46,63 +47,74 @@ impl Developer {
         name: &'static str,
         what_i_do: &'static [&'static str],
         skills: &'static [(&'static str, &'static [&'static str])],
+        connect_me: &'static [&'static str],
     ) -> Self {
         Self {
             name,
             what_i_do,
             skills,
+            connect_me,
         }
     }
 
     fn print_profile(&self) {
-        println!("👤 Developer: {}\n", self.name);
+        println!("\n=============================");
+        println!("👨‍💻  Developer: {}", self.name);
+        println!("=============================\n");
 
-        println!("🎯 What I do:");
+        println!("🎯 What I Do:");
         for &area in self.what_i_do {
-            println!("- {}", area);
+            println!("  • {}", area);
         }
 
-        println!("\n🛠️ Skills:");
+        println!("\n🛠️  Skills:");
         for &(category, tools) in self.skills {
-            print!("- {}: ", category);
-            for (i, &tool) in tools.iter().enumerate() {
-                if i > 0 {
-                    print!(", ");
-                }
-                print!("{}", tool);
+            println!("  {}:", category);
+            for &tool in tools {
+                println!("    - {}", tool);
             }
-            println!();
         }
 
-        println!("\n🤝 Let's connect and build something great together!");
+        println!("\n🔗 Connect with Me:");
+        for &link in self.connect_me {
+            println!("  {}", link);
+        }
+
+        println!("\n🤝 Let's connect and build something great together!\n");
     }
 }
 
 static WHAT_I_DO: &[&str] = &[
-    "Helping Founders Build & Launch AI Products Fast 🚀",
-    "Go, Rust, Python, LLMs, GenAI, CV",
-    "MVPs to Scalable Systems",
-    "Product Engineer",
-    "AI/ML Consultant",
+    "🚀 Helping Founders Build & Launch AI Products Fast",
+    "🧠 Building with Go, Rust, Python, LLMs, GenAI, CV",
+    "📈 From MVPs to Scalable Systems",
+    "🛠️ Product Engineering with AI focus",
+    "📊 AI/ML Consulting for Startups",
 ];
 
 static SKILLS: &[(&str, &[&str])] = &[
-    ("Languages", &["Rust", "Golang", "Python", "PHP"]),
-    ("Frameworks", &["Tauri", "Dioxus", "Gorilla Mux", "Flask", "Fast API"]),
-    ("Databases", &["MySQL", "MongoDB", "PostgreSQL"]),
-    ("DevOps", &["Docker", "Git", "Linux"]),
-    ("Frontend", &["HTMX", "HTML/SCSS", "Bootstrap", "Tailwind CSS"]),
-    ("AI/ML", &[
-        "TensorFlow", "PyTorch", "Hugging Face Transformers",
-        "OpenCV", "LangChain", "GPT APIs",
+    ("🧑‍💻 Languages", &["Rust 🦀", "Go 🐹", "Python 🐍", "PHP 🐘"]),
+    ("📦 Frameworks", &["Tauri", "Dioxus", "Gorilla Mux", "Flask", "FastAPI"]),
+    ("🗄️ Databases", &["MySQL", "MongoDB", "PostgreSQL"]),
+    ("⚙️ DevOps", &["Docker 🐳", "Git", "Linux 🐧"]),
+    ("🎨 Frontend", &["HTMX", "HTML/SCSS", "Bootstrap", "Tailwind CSS"]),
+    ("🧠 AI/ML", &[
+        "TensorFlow 🔬", "PyTorch 🔥", "Hugging Face 🤗",
+        "OpenCV 📸", "LangChain 🔗", "OpenAI GPT APIs 🧠",
     ]),
 ];
 
+static CONNECT_ME: &[&str] = &[
+    "🌐 Website: https://chinmayvivek.com",
+    "💼 LinkedIn: https://linkedin.com/in/chinmayvivek",
+    "💻 GitHub: https://github.com/chinmayvivek",
+    "✉️ Email: iam@chinmayvivek.com",
+];
+
 fn main() {
-    let chinmay = Developer::new("Chinmay Vivek", WHAT_I_DO, SKILLS);
+    let chinmay = Developer::new("Chinmay Vivek", WHAT_I_DO, SKILLS, CONNECT_ME);
     chinmay.print_profile();
 }
-
 
 ```
 
