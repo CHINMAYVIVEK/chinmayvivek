@@ -1,88 +1,147 @@
-# Chinmay Vivek 👋
+# Hey there, I’m Chinmay Vivek 👋
 
-<!--
-**CHINMAYVIVEK/chinmayvivek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Builder of fast AI products | Rustacean | Golang Lover | Python Enthusiast | PHP Dev**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Rust | Golang | Python | PHP 
+---
 
 <p align="center">
-  <b><i>Let's connect! Find me on the web.</i></b>
+  <i><b>Let's connect and create something amazing together!</b></i>
+</p>
 
-[twitter]: https://twitter.com/chinmayvivek
-[youtube]: https://www.youtube.com/c/ChinmayVivekk
-[linkedin]: https://www.linkedin.com/in/chinmayvivek/
-[Facebook]: https://www.facebook.com/chinmayvivek
-[Hackerrank]: https://www.hackerrank.com/chinmayvivek
-[Stackoverflow]: https://stackoverflow.com/users/8684941/chinmay-vivek
+<p align="center">
+  <a href="https://www.chinmayvivek.com/" target="_blank" rel="noopener">
+    <img height="30" src="https://img.shields.io/badge/Website-036be4.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/chinmayvivek/" target="_blank" rel="noopener">
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-[<img height="30" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src ="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
-[<img height="30" src ="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src ="https://img.shields.io/badge/Facebook-036be4.svg?&style=for-the-badge&logo=facebook&logoColor=white">][Facebook]
-[<img height="30" src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>][Hackerrank]
-[<img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>][Stackoverflow]
+---
 
-<br />
-<hr />
+![Profile Views](https://komarev.com/ghpvc/?username=ChinmayVivek&style=for-the-badge)
+
+---
+
+## 👨‍💻 Who am I?
+
+```rust
+struct Developer {
+    name: &'static str,
+    what_i_do: &'static [&'static str],
+    skills: &'static [(&'static str, &'static [&'static str])],
+}
+
+impl Developer {
+    fn new(
+        name: &'static str,
+        what_i_do: &'static [&'static str],
+        skills: &'static [(&'static str, &'static [&'static str])],
+    ) -> Self {
+        Self {
+            name,
+            what_i_do,
+            skills,
+        }
+    }
+
+    fn print_profile(&self) {
+        println!("👤 Developer: {}\n", self.name);
+
+        println!("🎯 What I do:");
+        for &area in self.what_i_do {
+            println!("- {}", area);
+        }
+
+        println!("\n🛠️ Skills:");
+        for &(category, tools) in self.skills {
+            print!("- {}: ", category);
+            for (i, &tool) in tools.iter().enumerate() {
+                if i > 0 {
+                    print!(", ");
+                }
+                print!("{}", tool);
+            }
+            println!();
+        }
+
+        println!("\n🤝 Let's connect and build something great together!");
+    }
+}
+
+static WHAT_I_DO: &[&str] = &[
+    "Helping Founders Build & Launch AI Products Fast 🚀",
+    "Go, Rust, Python, LLMs, GenAI, CV",
+    "MVPs to Scalable Systems",
+    "Product Engineer",
+    "AI/ML Consultant",
+];
+
+static SKILLS: &[(&str, &[&str])] = &[
+    ("Languages", &["Rust", "Golang", "Python", "PHP"]),
+    ("Frameworks", &["Tauri", "Dioxus", "Gorilla Mux", "Flask", "Fast API"]),
+    ("Databases", &["MySQL", "MongoDB", "PostgreSQL"]),
+    ("DevOps", &["Docker", "Git", "Linux"]),
+    ("Frontend", &["HTMX", "HTML/SCSS", "Bootstrap", "Tailwind CSS"]),
+    ("AI/ML", &[
+        "TensorFlow", "PyTorch", "Hugging Face Transformers",
+        "OpenCV", "LangChain", "GPT APIs",
+    ]),
+];
+
+fn main() {
+    let chinmay = Developer::new("Chinmay Vivek", WHAT_I_DO, SKILLS);
+    chinmay.print_profile();
+}
 
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
-  
-### Namaste 🙏
- 
-* Primary coding language: Golang.
-* I’m currently working on my portfolio.
-* Competitive Programmer
-* Ask me about anything, I'll be happy to help.
-* From Prayagraj, U.P. India
+```
 
-![](https://komarev.com/ghpvc/?username=ChinmayVivek&style=for-the-badge)
+---
 
-<!--   Top Languages Using -->
-### 👨‍💻 Top Languages Used:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChinmayVivek&theme=onedark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChinmayVivek&theme=onedark)
+## 🚀 Tech Stacks I Rock
 
-<!--   Stats
-### 📊 GitHub Stats:
+| Category   | Tools                                                          |
+| ---------- | -------------------------------------------------------------- |
+| Languages  | Rust, Golang, Python, PHP                                      |
+| Frameworks | Tauri, Dioxus, Gorilla Mux, Flask, Fast API                    |
+| Databases  | MySQL, MongoDB, PostgreSQL                                     |
+| DevOps     | Docker, Git, Linux                                             |
+| Frontend   | HTMX, HTML/SCSS, Bootstrap, Tailwind CSS                       |
+| AI/ML      | TensorFlow, PyTorch, Hugging Face, OpenCV, LangChain, GPT APIs |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChinmayVivek&show_icons=true&locale=en" alt="ChinmayVivek" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayVivek&" alt="ChinmayVivek" /></p>
- 
- -->
-### Show some &nbsp;❤️&nbsp; by starring some of the repositories!
+## 📊 GitHub Insights
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChinmayVivek\&theme=onedark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChinmayVivek\&theme=onedark)
+
+---
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ChinmayVivek&theme=onedark" alt="ChinmayVivek" /></a> </p>
 
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ChinmayVivek&theme=onedark" alt="Trophies" />
+  </a>
+</p>
 
-<table><tr><td valign="top" width="33%">
+---
 
-### My Digital Galaxy 🔭
-You can find my blogs at my [Website](https://chinmayvivek.wordpress.com).
-- [Python Data Type](https://chinmayvivek.wordpress.com/2020/09/26/2-python-data-types/)
-- [Getting started with Python](https://chinmayvivek.wordpress.com/2020/09/25/1-getting-started-with-python/)
-- [php-mysql PDO Connection](https://chinmayvivek.wordpress.com/2017/03/23/php-mysql-pdo-connection/)
+## ✨ Explore My Code Snippets & Experiments on Gist!
 
-</td>
-<td valign="top" width="34%">
+<p align="center">
+  <a href="https://gist.github.com/CHINMAYVIVEK" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Explore-Gists-blue?style=for-the-badge&logo=github" alt="Gist Badge"/>
+  </a>
+</p>
 
-### The Developer {'Dictionary':⚡}
-- Check out my latest videos on [YouTube](https://www.youtube.com/c/ChinmayVivekk):
-- Check out my [Gist](https://gist.github.com/CHINMAYVIVEK)
-</td>
-</tr>
-</table>
+> Dive into my collection of mini-projects, useful snippets, and experiments. Perfect for quick inspiration or collaboration!
 
+---
+
+✨ **Show some ❤️ by starring repositories and connecting!**
+
+---
