@@ -19,11 +19,19 @@
 </p>
 
 ---
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=ChinmayVivek&style=for-the-badge) -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=ChinmayVivek&style=for-the-badge)
+## ✨ Explore My Code Snippets & Experiments on Gist!
+
+<p align="center">
+  <a href="https://gist.github.com/CHINMAYVIVEK" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Explore-Gists-blue?style=for-the-badge&logo=github" alt="Gist Badge"/>
+  </a>
+</p>
+
+> Dive into my collection of mini-projects, useful snippets, and experiments. Perfect for quick inspiration or collaboration!
 
 ---
-
 ## 👨‍💻 Who am I?
 
 ```rust
@@ -127,18 +135,6 @@ fn main() {
     <img src="https://github-profile-trophy.vercel.app/?username=ChinmayVivek&theme=onedark" alt="Trophies" />
   </a>
 </p>
-
----
-
-## ✨ Explore My Code Snippets & Experiments on Gist!
-
-<p align="center">
-  <a href="https://gist.github.com/CHINMAYVIVEK" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Explore-Gists-blue?style=for-the-badge&logo=github" alt="Gist Badge"/>
-  </a>
-</p>
-
-> Dive into my collection of mini-projects, useful snippets, and experiments. Perfect for quick inspiration or collaboration!
 
 ---
 
