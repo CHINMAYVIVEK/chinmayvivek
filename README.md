@@ -110,9 +110,10 @@ static CONNECT_ME: &[&str] = &[
     "💻 GitHub: https://github.com/chinmayvivek",
     "✉️ Email: iam@chinmayvivek.com",
 ];
+const NAME: &str = "Chinmay Vivek";
 
 fn main() {
-    let chinmay = Developer::new("Chinmay Vivek", WHAT_I_DO, SKILLS, CONNECT_ME);
+    let chinmay = Developer::new(NAME, WHAT_I_DO, SKILLS, CONNECT_ME);
     chinmay.print_profile();
 }
 
