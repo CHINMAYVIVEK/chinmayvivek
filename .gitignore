@@ -1,0 +1,39 @@
+# Bun / Node.js dependencies
+node_modules/
+.pnp/
+.pnp.js
+.bun/
+
+# Bun build artifacts
+dist/
+out/
+build/
+
+# Bun cache
+.bun-cache/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+.history/
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Optional: coverage / testing
+coverage/
+.nyc_output/
