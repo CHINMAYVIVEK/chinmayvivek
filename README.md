@@ -256,5 +256,5 @@ fn main() {
 
 ---
 
-✨ *If you like what you see, star a repo — it keeps me caffeinated ☕*
+✨ *If you like what you see, star a repo - it keeps me caffeinated ☕*
 
