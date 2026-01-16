@@ -211,25 +211,28 @@ fn main() {
 </p>
 
 ---
+## 🔥 Current Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=CHINMAYVIVEK&theme=onedark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
 
 ## 📊 GitHub Stats
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChinmayVivek\&theme=onedark)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChinmayVivek\&theme=onedark)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CHINMAYVIVEK\&theme=onedark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CHINMAYVIVEK\&theme=onedark)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=CHINMAYVIVEK&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
+![GitHub Trophies](https://github-trophies.vercel.app/?username=CHINMAYVIVEK&theme=onedark)
 
 ---
 ## 📈 <b><i>Contribution Graph</i></b>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHINMAYVIVEK&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHINMAYVIVEK&theme=onedark" />
 </p>
 
 ---
