@@ -1,263 +1,261 @@
-# 👋 Hey, I’m Chinmay Vivek
+<div align="center">
 
-🚀 **AI Product Engineer | Startup Builder | Open-Source Contributor**  
-🦀 Rustacean · 🐹 Golang Dev · 🧠 GenAI Architect · ⚡ MVP-to-Scale Specialist
+# Chinmay Vivek
 
-> I help founders and teams **turn ideas into fast, scalable AI products** - from zero to production.
+### `AI Product Engineer` • `GenAI Systems Architect` • `Startup Builder`
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;Rust+%E2%80%A2+Go+%E2%80%A2+LLMs+%E2%80%A2+Distributed+Backends;From+MVP+to+Scale;Shipping+AI+Products+That+Actually+Scale" />
+
+<br/>
 
 <p align="center">
-  <a href="https://www.chinmayvivek.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-036be4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://chinmayvivek.com">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/chinmayvivek/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/chinmayvivek">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://gist.github.com/CHINMAYVIVEK" target="_blank">
-    <img src="https://img.shields.io/badge/Gists-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/CHINMAYVIVEK">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:iam@chinmayvivek.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Building%20AI%20Systems&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-## 🧠 What I Do
-
-- 🚀 Build & launch **AI-powered products** in weeks, not months
-- 🧩 Design **LLM systems** (RAG, agents, pipelines, embeddings)
-- ⚙️ Engineer **high-performance backends** using Rust & Go
-- 📈 Scale MVPs into **production-ready systems**
-- 🧠 Advise startups on **AI architecture & product strategy**
+</div>
 
 ---
 
-## 🏆 Achievements & Highlights
+# ⚡ About Me
 
-- 🥇 Shipped **multiple AI MVPs** for startups & founders
-- 🧠 Built **LLM-driven applications** using OpenAI, LangChain & HuggingFace
-- ⚡ Designed **low-latency APIs** handling real-world production load
-- 🧩 Created reusable **AI & backend boilerplates**
-- 🌍 Active **open-source contributor**
-- 📊 Strong focus on **performance, scalability & DX**
+```yaml
+name: Chinmay Vivek
+role: AI Product Engineer
 
----
+specialization:
+  - LLM Systems
+  - AI Infrastructure
+  - Distributed Backends
+  - Startup MVPs
+  - AI Agents & Automation
 
-## 🌍 Open Source & Community
+currently_building:
+  - Production-grade AI products
+  - RAG systems
+  - AI orchestration pipelines
+  - High-performance APIs
 
-- ⭐ Active contributor across **Rust, Go & Python**
-- 📦 Share **production-ready snippets & experiments** on Gists
-- 🔁 Publish reusable patterns for:
-  - LLM pipelines & RAG systems
-  - Backend architecture
-  - AI + Web integrations
-- 🤝 Open to collaborations & OSS contributions
-
-> _“Good software scales. Great software ships fast and scales later.”_
-
----
-
-## 👨‍💻 Me, as Code
-
-```rust
-
-struct Developer {
-    name: &'static str,
-    what_i_do: &'static [&'static str],
-    skills: &'static [(&'static str, &'static [&'static str])],
-    connect_me: &'static [&'static str],
-}
-
-impl Developer {
-    fn print_profile(&self) {
-        println!("\n=============================");
-        println!("👨‍💻  Developer: {}", self.name);
-        println!("=============================\n");
-
-        println!("🎯 What I Do:");
-        self.what_i_do.iter().for_each(|area| println!("  • {}", area));
-
-        println!("\n🛠️  Skills:");
-        self.skills.iter().for_each(|(category, tools)| {
-            println!("  {}:", category);
-            tools.iter().for_each(|tool| println!("    - {}", tool));
-        });
-
-        println!("\n🔗 Connect with Me:");
-        self.connect_me.iter().for_each(|link| println!("  {}", link));
-
-        println!("\n🤝 Let's connect and build something great together!\n");
-    }
-}
-
-static WHAT_I_DO: &[&str] = &[
-    "🚀 Helping Founders Build & Launch AI Products Fast",
-    "🧠 Building with Go, Rust, Python, LLMs, GenAI, CV",
-    "📈 From MVPs to Scalable Systems",
-    "🛠️ Product Engineering with AI focus",
-    "📊 AI/ML Consulting for Startups",
-];
-
-static SKILLS: &[(&str, &[&str])] = &[
-    ("🧑‍💻 Languages", &["Rust 🦀", "Go 🐹", "Python 🐍", "PHP 🐘"]),
-    ("📦 Frameworks", &["Tauri", "Dioxus", "Gorilla Mux", "Flask", "FastAPI"]),
-    ("🗄️ Databases", &["MySQL", "MongoDB", "PostgreSQL"]),
-    ("⚙️ DevOps", &["Docker 🐳", "Git", "Linux 🐧"]),
-    ("🎨 Frontend", &["HTMX", "HTML/SCSS", "Bootstrap", "Tailwind CSS"]),
-    ("🧠 AI/ML", &[
-        "TensorFlow 🔬", "PyTorch 🔥", "Hugging Face 🤗",
-        "OpenCV 📸", "LangChain 🔗", "OpenAI GPT APIs 🧠",
-    ]),
-];
-
-static CONNECT_ME: &[&str] = &[
-    "🌐 Website: https://chinmayvivek.com",
-    "💼 LinkedIn: https://linkedin.com/in/chinmayvivek",
-    "💻 GitHub: https://github.com/chinmayvivek",
-    "✉️ Email: iam@chinmayvivek.com",
-];
-
-fn main() {
-    let chinmay = Developer {
-        name: "Chinmay Vivek",
-        what_i_do: WHAT_I_DO,
-        skills: SKILLS,
-        connect_me: CONNECT_ME,
-    };
-
-    chinmay.print_profile();
-}
-
-````
+philosophy:
+  "Ship fast. Scale intelligently."
+```
 
 ---
 
-## ⚡ Tech Stack
+# 🧠 What I Do
 
-| Category  | Tools                                               |
-| --------- | --------------------------------------------------- |
-| Languages | Rust, Go, Python, PHP                               |
-| AI / ML   | OpenAI, LangChain, HuggingFace, PyTorch, TensorFlow |
-| Backend   | FastAPI, Flask, Gorilla Mux                         |
-| Frontend  | HTMX, Tailwind CSS, Bootstrap                       |
-| Databases | PostgreSQL, MySQL, MongoDB                          |
-| DevOps    | Docker, Git, Linux                                  |
+<table>
+<tr>
+<td width="50%">
+
+## 🚀 AI Product Engineering
+
+- Build AI MVPs in weeks
+- Architect scalable AI systems
+- Design LLM pipelines & agents
+- Create production-ready infrastructure
+- Deploy AI workflows at scale
+
+</td>
+<td width="50%">
+
+## ⚙️ Backend Engineering
+
+- High-performance Rust APIs
+- Distributed systems in Go
+- Async & event-driven architecture
+- Realtime systems
+- Infrastructure optimization
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Toolbelt
+# 🛠️ Tech Arsenal
 
-### 🧑‍💻 Languages
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+## Languages
+
+<img src="https://skillicons.dev/icons?i=rust,go,python,php,bash" />
+
+## AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFB000?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
----
+## Backend & Infra
 
-### ⚙️ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,linux,postgres,mongodb,mysql,git" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gorilla%20Mux-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-FFFFFF?style=for-the-badge&logo=tauri&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dioxus-1A1A1A?style=for-the-badge&logo=rust&logoColor=white" />
-</p>
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+
+</div>
 
 ---
 
-### 🧠 AI / ML / GenAI
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FB6C0F?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
 
----
 
-### 🎨 Frontend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTMX-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-
----
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-### ⚡ DevOps & Infra
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-## 🔥 Current Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=CHINMAYVIVEK&theme=onedark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
----
-
-## 📊 GitHub Stats
+<div align="center">
 
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CHINMAYVIVEK\&theme=onedark)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CHINMAYVIVEK\&theme=onedark)
 
----
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-trophies.vercel.app/?username=CHINMAYVIVEK&theme=onedark)
-
----
-## 📈 <b><i>Contribution Graph</i></b>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CHINMAYVIVEK&theme=onedark" />
-</p>
+</div>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHINMAYVIVEK/CHINMAYVIVEK/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHINMAYVIVEK/CHINMAYVIVEK/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CHINMAYVIVEK/CHINMAYVIVEK/output/pacman-contribution-graph.svg">
-</picture>
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=CHINMAYVIVEK&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
 
 ---
 
-## 🤝 Let’s Build Something
+# 📈 Activity Graph
 
-* 💡 Have a startup idea?
-* 🧠 Need AI architecture help?
-* ⚡ Want to ship faster?
+<div align="center">
 
-📩 **Reach me at:**
+[![Chinmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CHINMAYVIVEK&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-* 🌐 [https://www.chinmayvivek.com](https://www.chinmayvivek.com)
-* 💼 [https://linkedin.com/in/chinmayvivek](https://linkedin.com/in/chinmayvivek)
-* ✉️ [iam@chinmayvivek.com](mailto:iam@chinmayvivek.com)
+</div>
 
 ---
 
-✨ *If you like what you see, star a repo - it keeps me caffeinated ☕*
+# 🏆 GitHub Achievements
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=CHINMAYVIVEK&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# 🧩 Core Focus Areas
+
+<div align="center">
+
+| AI Systems | Backend Engineering | Startup Building |
+|---|---|---|
+| RAG Pipelines | Rust APIs | MVP Development |
+| AI Agents | Distributed Systems | Product Strategy |
+| LLM Orchestration | Async Architecture | Scaling Infrastructure |
+| Embeddings | Realtime Systems | AI SaaS Products |
+
+</div>
+
+---
+
+# 👨‍💻 Me as Code
+
+```rust
+struct Engineer {
+    name: &'static str,
+    role: &'static str,
+    stack: &'static [&'static str],
+    focus: &'static [&'static str],
+}
+
+impl Engineer {
+    fn build(&self) {
+        println!("⚡ Building scalable AI systems...");
+    }
+}
+
+fn main() {
+    let chinmay = Engineer {
+        name: "Chinmay Vivek",
+        role: "AI Product Engineer",
+        stack: &["Rust", "Go", "Python", "LLMs"],
+        focus: &[
+            "AI Infrastructure",
+            "Backend Systems",
+            "Distributed Architecture",
+            "Startup Products"
+        ],
+    };
+
+    chinmay.build();
+}
+```
+
+---
+
+# 🌍 Open Source
+
+<div align="center">
+
+### Contributing to the future of AI & backend engineering.
+
+</div>
+
+- ⚡ Production-ready AI boilerplates
+- 🧠 LLM architecture experiments
+- 🦀 Rust ecosystem contributions
+- 🐹 Golang backend tooling
+- 📦 Reusable engineering patterns
+- 🚀 Developer-focused OSS utilities
+
+---
+
+# 🤝 Let’s Build Something Great
+
+<div align="center">
+
+### Building AI products that move fast *and* scale.
+
+<br/>
+
+<a href="https://chinmayvivek.com">
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/chinmayvivek">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:iam@chinmayvivek.com">
+  <img src="https://img.shields.io/badge/Work%20With%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=CHINMAYVIVEK&style=for-the-badge&color=58A6FF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ *Building Fast. Scaling Intelligently. Shipping Real AI.*
+
+</div>
