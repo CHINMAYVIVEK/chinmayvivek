@@ -177,33 +177,128 @@ philosophy:
 # 👨‍💻 Me as Code
 
 ```rust
-struct Engineer {
+struct Developer {
     name: &'static str,
     role: &'static str,
-    stack: &'static [&'static str],
     focus: &'static [&'static str],
+    what_i_build: &'static [&'static str],
+    skills: &'static [(&'static str, &'static [&'static str])],
+    principles: &'static [&'static str],
+    connect_me: &'static [&'static str],
 }
 
-impl Engineer {
-    fn build(&self) {
-        println!("⚡ Building scalable AI systems...");
+impl Developer {
+    fn print_profile(&self) {
+        println!("\n=============================");
+        println!("👨‍💻 Developer: {}", self.name);
+        println!("🧠 Role: {}", self.role);
+        println!("=============================\n");
+
+        println!("🎯 Focus Areas:");
+        self.focus.iter().for_each(|f| println!("  • {}", f));
+
+        println!("\n🚀 What I Build:");
+        self.what_i_build.iter().for_each(|area| println!("  • {}", area));
+
+        println!("\n🛠️ Tech Stack:");
+        self.skills.iter().for_each(|(category, tools)| {
+            println!("\n  {}:", category);
+            tools.iter().for_each(|tool| println!("    - {}", tool));
+        });
+
+        println!("\n🧭 Engineering Principles:");
+        self.principles.iter().for_each(|p| println!("  • {}", p));
+
+        println!("\n🔗 Connect:");
+        self.connect_me.iter().for_each(|link| println!("  {}", link));
+
+        println!("\n⚡ Let's build scalable AI systems.\n");
     }
 }
 
+/* =========================
+   CORE PROFILE DATA
+========================= */
+
+static FOCUS: &[&str] = &[
+    "LLM Systems & AI Infrastructure",
+    "Backend Engineering (Rust / Go)",
+    "Startup MVP → Scale Systems",
+    "AI Agents & Automation",
+    "Distributed Systems",
+];
+
+static WHAT_I_BUILD: &[&str] = &[
+    "Production-grade AI applications",
+    "RAG pipelines & embedding systems",
+    "AI agents & orchestration workflows",
+    "High-performance backend APIs",
+    "Scalable SaaS architecture",
+    "Developer tooling for AI systems",
+];
+
+static SKILLS: &[(&str, &[&str])] = &[
+    ("🧑‍💻 Languages", &["Rust 🦀", "Go 🐹", "Python 🐍"]),
+    ("🧠 AI / GenAI", &[
+        "OpenAI APIs",
+        "LangChain",
+        "Hugging Face",
+        "PyTorch",
+        "TensorFlow",
+        "RAG Systems",
+    ]),
+    ("⚙️ Backend", &[
+        "FastAPI",
+        "Flask",
+        "Gorilla Mux",
+        "Async Architecture",
+        "REST / gRPC APIs",
+    ]),
+    ("🗄️ Databases", &[
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+    ]),
+    ("🚀 DevOps / Infra", &[
+        "Docker 🐳",
+        "Linux 🐧",
+        "Git",
+        "CI/CD",
+    ]),
+    ("🎨 Frontend (light)", &[
+        "HTMX",
+        "Tailwind CSS",
+        "HTML / CSS",
+    ]),
+];
+
+static PRINCIPLES: &[&str] = &[
+    "Ship fast, iterate faster",
+    "Build simple systems that scale later",
+    "Prefer correctness over complexity",
+    "Design for production, not prototypes",
+    "Automate everything that repeats",
+];
+
+static CONNECT_ME: &[&str] = &[
+    "🌐 Website: https://chinmayvivek.com",
+    "💼 LinkedIn: https://linkedin.com/in/chinmayvivek",
+    "💻 GitHub: https://github.com/CHINMAYVIVEK",
+];
+
 fn main() {
-    let chinmay = Engineer {
+    let dev = Developer {
         name: "Chinmay Vivek",
         role: "AI Product Engineer",
-        stack: &["Rust", "Go", "Python", "LLMs"],
-        focus: &[
-            "AI Infrastructure",
-            "Backend Systems",
-            "Distributed Architecture",
-            "Startup Products"
-        ],
+        focus: FOCUS,
+        what_i_build: WHAT_I_BUILD,
+        skills: SKILLS,
+        principles: PRINCIPLES,
+        connect_me: CONNECT_ME,
     };
 
-    chinmay.build();
+    dev.print_profile();
 }
 ```
 
